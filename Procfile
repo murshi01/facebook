@@ -1,1 +1,1 @@
-web: gunicorn fbproject.wsgi --log-file -
+web: gunicorn mypro.wsgi --log-file -
